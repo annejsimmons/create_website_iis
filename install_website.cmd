@@ -1,0 +1,1 @@
+powershell -executionpolicy remoteSigned -command import-module .\PSCommon\WebAdministration;.\install_website.ps1
